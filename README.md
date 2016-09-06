@@ -2,4 +2,4 @@
 
 Notes that would save my day.
 
-See [Wiki](/wiki) for the gotchas.
+See [Wiki](https://github.com/cyhsutw/gotchas/wiki) for the gotchas.
